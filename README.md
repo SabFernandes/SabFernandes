@@ -2,7 +2,7 @@
 
   <div> 
   <a href="https://www.instagram.com/_sabfernandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sabrina_fernandesdesousa@outlook.com"><img height="28" width="70" src="https://i2.wp.com/www.i-tecnico.pt/wp-content/uploads/2013/03/outlook-logo1.png" target="_blank"></a>
+  <a href = "mailto:sabrina_fernandesdesousa@outlook.com"><img height="28" width="90" src="https://i2.wp.com/www.i-tecnico.pt/wp-content/uploads/2013/03/outlook-logo1.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sabrina-sousa-b6231b1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
