@@ -2,7 +2,7 @@
 
   <div> 
   <a href="https://www.instagram.com/_sabfernandes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sabrina_fernandesdesousa@outlook.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Outlook_logo_and_wordmark_%282012-2019%29.svg" target="_blank"></a>
+  <a href = "mailto:sabrina_fernandesdesousa@outlook.com"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Outlook_logo_and_wordmark_%282012-2019%29.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sabrina-sousa-b6231b1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
