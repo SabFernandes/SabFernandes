@@ -5,6 +5,7 @@
   <a href = "mailto:sabrina_fernandesdesousa@outlook.com"><img height="28" width="95" src="https://i2.wp.com/www.i-tecnico.pt/wp-content/uploads/2013/03/outlook-logo1.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sabrina-sousa-b6231b1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
  ##
 
 <div style="display: inline_block"><br>
