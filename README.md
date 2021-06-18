@@ -12,8 +12,6 @@
   <img align="center" alt="Sa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sa-C" height="30" width="40" src="https://1.bp.blogspot.com/--T_5OfKvaSo/XPAFw9jqmOI/AAAAAAAAAEE/2DOs_VguCz0TrNoOcYJaSvKacc-IqTv-ACPcBGAYYCw/s1600/c-logo.png">
-</div>
 
-<div> 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/SabFernandes/SabFernandes/blob/output/github-contribution-grid-snake.svg)
 </div>
