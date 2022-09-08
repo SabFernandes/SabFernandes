@@ -16,7 +16,7 @@
   <img align="center" alt="Sa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sa-C" height="30" width="40" src="https://1.bp.blogspot.com/--T_5OfKvaSo/XPAFw9jqmOI/AAAAAAAAAEE/2DOs_VguCz0TrNoOcYJaSvKacc-IqTv-ACPcBGAYYCw/s1600/c-logo.png">
-    <img align="center" alt="Sa-Java" height="30" width="40" src="[https://logospng.org/wp-content/uploads/java.png](https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)">
+    <img align="center" alt="Sa-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
  
   </div>
 
